@@ -1,0 +1,6 @@
+/* Wedding Invitation CSS */
+:root {
+    --primary: #D4AF37;
+    --text-dark: #2C3E50;
+}
+body { font-family: Arial, sans-serif; }
